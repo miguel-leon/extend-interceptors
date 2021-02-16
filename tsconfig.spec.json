@@ -5,7 +5,8 @@
     "outDir": "./out-tsc/spec",
     "types": [
       "jest"
-    ]
+    ],
+    "emitDecoratorMetadata": true
   },
   "files": [
     "src/polyfills.ts"
