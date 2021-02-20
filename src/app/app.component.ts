@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 
-import { TitleService } from './title.service';
+import { TitleService } from './common/title.service';
 
 @Component({
 	selector: 'app-root',
