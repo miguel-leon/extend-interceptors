@@ -1,3 +1,7 @@
+**This repo is the example project for the article at medium [Extending HTTP Interceptors Hierarchically in Angular](https://miguel-leon.medium.com/extending-http-interceptors-hierarchically-in-angular-4ca4d25af475).**
+
+*Reading the article first is advised.*
+
 # ExtendInterceptors
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
